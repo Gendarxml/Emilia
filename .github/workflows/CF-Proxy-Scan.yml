@@ -15,7 +15,7 @@ jobs:
     - name: 📂 Checkout Repository
       uses: actions/checkout@v3
       with:
-       token: HlZknaynoAzIN1Y_qsVg3XiFxA5fWx4H6WDJz6AN
+       token: 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
     
     - name: 🐍 Set Up Python
       uses: actions/setup-python@v4
